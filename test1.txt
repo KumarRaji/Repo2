@@ -1,0 +1,10 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is BA8D-4D0F
+
+ Directory of D:\ProjectinGit\MyFolder
+
+11/20/2020  12:30 PM    <DIR>          .
+11/20/2020  12:30 PM    <DIR>          ..
+11/20/2020  12:30 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  153,568,485,376 bytes free
